@@ -1,7 +1,6 @@
 {
   "name": "trip-to-mars",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -15,5 +14,14 @@
     "test": "node test.js"
   },
   "author": "Joe Eames",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpalanka/trip-to-mars-typical.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pushpalanka/trip-to-mars-typical/issues"
+  },
+  "homepage": "https://github.com/Pushpalanka/trip-to-mars-typical#readme",
+  "description": ""
 }
